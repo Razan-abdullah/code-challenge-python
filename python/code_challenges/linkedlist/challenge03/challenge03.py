@@ -45,4 +45,3 @@ llist.printList()
 llist.deleteNode(1)
 print("\nLinked List after Deletion is:\n")
 llist.printList()
-
